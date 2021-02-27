@@ -1,3 +1,36 @@
 h1 {
   color: Turquoise
+  text-align: center
+}
+
+h2 {
+  color: Turquoise
+  background-color: PaleTurquoise
+  text-align: center
+}
+
+h3 {
+  color: Turquoise
+  background-color: PaleTurquoise
+  text-align: center
+}
+
+h4 {
+  color: MediumAquamarine
+  text-align: center
+}
+
+p in header {
+  color: MediumAquamarine
+  text-align: center
+}
+
+p in body {
+color: Aquamarine
+text-align: left
+}
+
+p in footer {
+  color: MediumAquamarine
+  text-align: center
 }
